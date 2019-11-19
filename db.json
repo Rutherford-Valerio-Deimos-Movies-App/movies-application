@@ -47,6 +47,39 @@
       ],
       "description": "In 1984, a human soldier is tasked to stop an indestructible cyborg killing machine, both sent from 2029, from executing a young woman, whose unborn son is the key to humanity's future salvation",
       "id": 6
+    },
+    {
+      "title": "Star Wars: The Rise of Skywalker",
+      "rating": "5",
+      "date": "2019-12-20",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "description": "The surviving Resistance faces the First Order once more in the final chapter of the Skywalker saga",
+      "id": 7
+    },
+    {
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "rating": "4",
+      "date": "1980-06-20",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "description": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader.",
+      "id": 8
+    },
+    {
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "rating": "5",
+      "date": "1983-05-25",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "description": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap",
+      "id": 9
     }
   ]
 }
